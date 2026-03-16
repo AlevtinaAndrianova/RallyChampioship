@@ -1,5 +1,5 @@
 /**
- * This public stativ class's point is to provide utilities for the Championship, like
+ * This public static class's point is to provide utilities for the championship, like
  * like calculating average scores and finding most succeessful countries. Also, returns 
  * total races.
  */
